@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Lihan Hu (胡砺寒)</title>
+    <link>http://hulihan-start.github.io/project/</link>
+      <atom:link href="http://hulihan-start.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://hulihan-start.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://hulihan-start.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>CShaper</title>
+      <link>http://hulihan-start.github.io/project/bioinformatics/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://hulihan-start.github.io/project/bioinformatics/</guid>
+      <description>&lt;p&gt;Caenorhabditis elegans has been used as a model organism in developmental biology for a long time. Because C. elegans shares considerable biological characteristics with critical problems in humane biology, its unique features, such as transparent body, small size and mysterious developments, provide the biologist with a compromise between the tractability and complexity. For now, most studies concentrate on analyzing the nucleus-centred system, which can hardly profile the cellular morphological features comprehensively. In order to catalyze new morphological discoveries, it becomes a fundamental prerequisite for the biologist to inspect the embryo at single-cell level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
