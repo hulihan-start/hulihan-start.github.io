@@ -28,10 +28,11 @@ Peng Jiang, *Lihan Hu*, Shihui Song
 
 
 {{
+    
 <div class="center" id="member-container">
     <div id="member">
         <img src="image/icons/uiowa2.png" width="150" height="150">
-        <a href='https://clustrmaps.com/site/1bjkn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=f7c000&w=284&t=t&d=jhde0r9eqi9rr3GM-4w0eBmV3s7ayjluV-on6kfPItg&co=000000&ct=ffffff'/></a>
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=fODojMxvVqH5Mkjje5dEMB7V-bM0mTeOw8z157PxbCE"></script>
     </div>
 </div>
 }}
