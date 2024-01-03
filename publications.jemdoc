@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications \n
+
+Full list publications can be fount at \[[https://scholar.google.com/citations?user=r8qwkW8AAAAJ&hl=en Google Scholar]\] and \[[https://dblp.uni-trier.de/pid/268/9947.html DBLP]\].
+
+== Conference Papers
+
+
+- *\[IPDPS'24\]* cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding\n
+*Lihan Hu*, Jing Li, and Peng Jiang
+
+- [cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding]\n
+*Lihan Hu*, Jing Li, and Peng Jiang\n
+*\[IPDPS'24\]*: IEEE International Parallel and Distributed Processing Symposium, 2024\n
+
+- [https://proceedings.neurips.cc/paper_files/paper/2022/file/fa69e968b7319fd42524febd41475fb3-Paper-Conference.pdf Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training]\n
+Peng Jiang, *Lihan Hu*, Shihui Song\n
+*\[NeurIPS'22\]*: Thirty-sixth Conference on Neural Information Processing Systems, 2023\n
+
+
+- [https://www.sciencedirect.com/science/article/pii/S1877050920319700 A disk failure prediction method based on LSTM network due to its individual specificity]\n
+*Lihan Hu* , Lixin Han, Zhenyuan Xu, Tianming Jiang, Huijun Qi\n
+*\[KES'20\]*: International Conference on Knowledge-Based and Intelligent Information \& Engineering Systems, 2020\n
+
+
+== Journal Papers
+
+
+== Workshop\/Poster\/Short Papers

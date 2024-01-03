@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}
+= Lihan Hu (胡砺寒)
+
+~~~
+{}{img_left}{image/lihanhu.jpg}{alt text}{180px}{185px}
+I am a Ph.D. student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa].
+I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and advised by [https://pengjiang-hpc.github.io/ Dr. Peng Jiang].
+Before coming to UIowa, I received my Master's degree (Sep.2019-Jun.2022, major: Pattern Recognition and Intelligent System) at [https://en.hhu.edu.cn/ Hohai University], Nanjing and advised by [https://cies.hhu.edu.cn/2013/0508/c4122a54872/page.psp Prof. Lixin Han].
+I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at [http://english.nau.edu.cn/ Nanjing Audit University], Nanjing.
+
+- Email: lihan-hu /at/ uiowa /dot/ edu
+- Office: 317 Maclean Hall, 2 West Washington St., Iowa City, Iowa 52246
+- [file/Lihan_LaTeX_Résumé.pdf Curriculem Vitae]
+~~~
+
+== Research Interests
+- Graph Learning
+- Compiler Optimization
+- Dynamic Sparse Neural Network Training
+- Parallel Computing
+
+== Selected Publications ([publications.html Full List])
+- *\[IPDPS'24\]* cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding\n
+*Lihan Hu*, Jing Li, and Peng Jiang
+
+- *\[NeurIPS'22\]* Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training\n
+Peng Jiang, *Lihan Hu*, Shihui Song
+
+
+{{
+<div class="center" id="member-container">
+    <div id="member">
+        <img src="image/icons/uiowa2.png" width="150" height="150">
+        <a href='https://clustrmaps.com/site/1bjkn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=f7c000&w=284&t=t&d=jhde0r9eqi9rr3GM-4w0eBmV3s7ayjluV-on6kfPItg&co=000000&ct=ffffff'/></a>
+    </div>
+</div>
+}}
+
+
