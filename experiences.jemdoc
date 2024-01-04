@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{experiences.html}
 = Experiences
 
-== Education Experiences
+== Education
 
 - Ph.D., Computer Science, University of Iowa, 2022 - present
 - M.S., Pattern Recognition and Intelligent System, Hohai University, 2019 - 2022
@@ -14,3 +14,6 @@
 - Research Assistant, Hohai University, 2019 - 2022
 - Research Intern, Huazhong University of Science and Technology, 2016 - 2018
 
+== Teaching Experiences
+
+- TA CS3620\@UIowa: Operating Systems, Fall 2023, Instructor: [https://pengjiang-hpc.github.io// Dr. Peng Jiang] 
