@@ -20,11 +20,14 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at 
 - Parallel Computing
 
 == Selected Publications ([publications.html Full List])
+- *\[IPDPS'25\]* Improving Accuracy and Efficiency of Graph Embedding Training with Fine-Grained Parameter Management\n
+*Lihan Hu*, Peng Jiang
+
 - *\[IPDPS'24\]* cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding\n
 *Lihan Hu*, Jing Li, and Peng Jiang
 
 - *\[NeurIPS'22\]* Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training\n
-Peng Jiang, *Lihan Hu*, Shihui Song
+Peng Jiang, *Lihan Hu*, and Shihui Song
 
 
 {{

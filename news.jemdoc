@@ -1,5 +1,7 @@
 # jemdoc: menu{MENU}{news.html}
 = News
+== 2024
+- 12/2024: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}} Two papers are accepted by IPDPS'25.
 
 == 2023
 - 12/2023: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}}One paper about knowledge graph embedding optimization is accepted by IPDPS'24.

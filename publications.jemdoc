@@ -4,9 +4,15 @@
 Full list publications can be fount at \[[https://scholar.google.com/citations?user=wai7d_EAAAAJ&hl=en Google Scholar]\] and \[[https://dblp.org/pid/277/8552.html DBLP]\].
 
 == Conference Papers
+- [https://www.ipdps.org/ipdps2025/2025-call-for-papers.html Improving Accuracy and Efficiency of Graph Embedding Training with Fine-Grained Parameter Management]\n
+*Lihan Hu* and Peng Jiang\n
+*\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025\n
 
+- [https://www.ipdps.org/ipdps2025/2025-call-for-papers.html Matcha: A Language and Compiler for Backtracking-based Subgraph Matching]\n
+Yihua Wei, *Lihan Hu*, and Peng Jiang\n
+*\[IPDPS'25\]*: IEEE International Parallel and Distributed Processing Symposium, 2025\n
 
-- [https://www.ipdps.org/ipdps2024/2024-call-for-papers.html cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding]\n
+- [https://ieeexplore.ieee.org/abstract/document/10579175 cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding]\n
 *Lihan Hu*, Jing Li, and Peng Jiang\n
 *\[IPDPS'24\]*: IEEE International Parallel and Distributed Processing Symposium, 2024\n
 
