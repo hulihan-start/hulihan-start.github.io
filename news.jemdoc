@@ -1,10 +1,13 @@
 # jemdoc: menu{MENU}{news.html}
 = News
+== 2025
+- 05/2025: {{<font color=green size=+0.5><b>}} \[Career\] {{</b></font>}}Pass my PhD comprehensive exam.
+
 == 2024
-- 12/2024: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}} Two papers are accepted by IPDPS'25.
+- 12/2024: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}}Two papers (compiler for subgraph matching and parameter management for knowledge graph embedding) are accepted by IPDPS'25.
 
 == 2023
-- 12/2023: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}}One paper about knowledge graph embedding optimization is accepted by IPDPS'24.
+- 12/2023: {{<font color=blue size=+0.5><b>}} \[Paper\] {{</b></font>}}One paper about compiler for optimizing knowledge graph embedding is accepted by IPDPS'24.
 - 09/2023: {{<font color=green size=+0.5><b>}} \[Career\] {{</b></font>}}Pass my PhD qualifying exam.
 
 == 2022
