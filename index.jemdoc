@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{image/lihanhu.jpg}{alt text}{200px}{300px}
 I am a fourth-year Ph.D. student in the [https://cs.uiowa.edu/ Computer Science Department] at the [https://uiowa.edu/ University of Iowa] and advised by [https://pengjiang-hpc.github.io/ Dr. Peng Jiang].
-I am a member of [https://iowa-hpc.github.io/ IOWA-HPC Group] and [https://github.com/parallel-group Parallel Group].
+I am a member of [https://github.com/parallel-group Parallel Group].
 Before coming to UIowa, I received my Master's degree (Sep.2019-Jun.2022, major: Pattern Recognition and Intelligent System) at [https://en.hhu.edu.cn/ Hohai University], Nanjing and advised by [https://cies.hhu.edu.cn/2024/0520/c21612a280054/page.htm Prof. Lixin Han]. I worked closely with [https://www.ee.cityu.edu.hk/~hpyan/ Prof. Hong Yan] at the [https://www.cityu.edu.hk/ City University of Hong Kong] from Sep.2020-Oct.2021.
 I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at [http://english.nau.edu.cn/ Nanjing Audit University], Nanjing.
 
@@ -20,6 +20,7 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at 
 - Graph Learning
 - Efficient Machine Learning Algorithms
 - Parallel Computing
+- HW-SW Co-design
 
 == Selected Publications ([publications.html Full List])
 - *\[IPDPS'25\]* Improving Accuracy and Efficiency of Graph Embedding Training with Fine-Grained Parameter Management\n
