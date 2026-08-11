@@ -4,8 +4,12 @@
 Full list publications can be fount at \[[https://scholar.google.com/citations?user=wai7d_EAAAAJ&hl=en Google Scholar]\] and \[[https://dblp.org/pid/277/8552.html DBLP]\].
 
 == Conference Papers
+- [https://pact2026.github.io/ Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs]\n
+*Lihan Hu*, Xiaoyang Lu, Xian-He Sun and Peng Jiang\n
+*\[PACT'26\]*: The International Conference on Parallel Architectures and Compilation Techniques, 2026\n
+
 - [https://www.ipdps.org/ipdps2026/2026-call-for-papers.html I/O-Aware PIM Acceleration for Long-Sequence LLM Inference with Hybrid Sparse Attention]\n
-*Lihan Hu*\*, Xiaoyang Lu\*, Hongrui Huang, Peng Jiang, and Xian-He Sun\n
+Xiaoyang Lu\*, *Lihan Hu*\*, Hongrui Huang, Peng Jiang, and Xian-He Sun\n
 *\[IPDPS'26\]*: IEEE International Parallel and Distributed Processing Symposium, 2026\n
 
 - [https://ieeexplore.ieee.org/abstract/document/11078550 Improving Accuracy and Efficiency of Graph Embedding Training with Fine-Grained Parameter Management]\n
