@@ -23,6 +23,9 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at 
 - HW-SW Co-design
 
 == Selected Publications ([publications.html Full List])
+- *\[PACT'26\]*: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs\n
+*Lihan Hu*, Xiaoyang Lu, Xian-He Sun and Peng Jiang
+
 - *\[IPDPS'25\]* Improving Accuracy and Efficiency of Graph Embedding Training with Fine-Grained Parameter Management\n
 *Lihan Hu*, Peng Jiang
 
