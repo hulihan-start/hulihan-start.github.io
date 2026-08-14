@@ -16,11 +16,11 @@ I received my Bachelor's degree (Sep.2014-Jun.2018, major: Computer Science) at 
 ~~~
 
 == Research Interests
-- Compiler Optimization
-- Graph Learning
 - Efficient Machine Learning Algorithms
 - Parallel Computing
-- HW-SW Co-design
+- Compiler Optimization
+- Hardware-Software Co-design
+- LLM Serving
 
 == Selected Publications ([publications.html Full List])
 - *\[PACT'26\]*: Improving Data Reuse across Blocks for Efficient Block-sparse Transformers on GPUs\n
